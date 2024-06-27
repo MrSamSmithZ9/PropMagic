@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "240627-000358-seeed_xiao_esp32c3",
+			"path": "../../PlatformIO/Projects/240627-000358-seeed_xiao_esp32c3"
+		}
+	]
+}
